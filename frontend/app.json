@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "Tena360 AI",
+    "slug": "tena360-ai",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "scheme": "tena360",
+    "userInterfaceStyle": "light",
+    "assetBundlePatterns": ["**/*"]
+  }
+}
